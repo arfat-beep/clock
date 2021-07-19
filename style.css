@@ -18,6 +18,7 @@ h1{
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
     animation: animate-text 5s infinite;
+    transform-orgin:bottom;
 }
 @keyframes animate-text {
     from{
